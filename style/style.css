@@ -1,0 +1,156 @@
+body {
+  background-color: #f2f2f2;
+  color: #333333;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 940px;
+}
+
+h1 {
+  color: #007acc;
+  font-size: 36px;
+  text-align: left;
+  background-image: url(../img/sobre-background.jpg);
+  padding: 10px;
+}
+
+h2 {
+  border-bottom: 2px solid #333333;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+p {
+  color: black;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: justify;
+  text-indent: 25px;
+  padding: 0 45px;
+}
+
+figure {
+  background-color: #f2eded;
+  border: 1px solid #ccc;
+  text-align: center;
+  padding: 15px;
+  margin: 30px;
+}
+
+figcaption {
+  font-style: italic;
+  margin-top: 10px;
+}
+
+li {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-left: 25px;
+}
+
+header {
+  position: relative;
+}
+
+.sacola {
+  background: url(../img/sacola.png) no-repeat top right;
+  font-size: 14px;
+  padding-right: 35px;
+  padding-top: 8px;
+  text-align: right;
+  width: 140px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.menu-opcoes ul {
+  font-size: 15px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.menu-opcoes ul li {
+  display: inline;
+  margin-left: 20px;
+}
+
+.menu-opcoes a {
+  color: #003366;
+}
+
+.container {
+  margin: 0 auto;
+  width: 940px;
+}
+
+.logotipo {
+  position: relative;
+  top: 20px;
+  left: 50px;
+}
+
+.quadrado {
+  background: green;
+  height: 200px;
+  width: 200px;
+}
+
+.relativo {
+  position: relative;
+}
+
+#cabecalho {
+  color: white;
+  text-align: center;
+}
+
+#rodape {
+  color: #777;
+  margin: 30px 0;
+  padding: 30px 0;
+}
+
+#rodape img {
+  margin-right: 35px;
+  vertical-align: middle;
+  width: 94px;
+}
+
+#rodape p {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+#rodape nav {
+  display: flex;
+  justify-content: center;
+}
+
+#rodape nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+#rodape nav li {
+  margin: 0 10px;
+}
+
+#rodape nav a {
+  text-decoration: none;
+  color: mediumblue;
+}
+
+#centro-distribuicao {
+  margin-left: auto;
+  margin-right: auto;
+  width: 550px;
+}
+
+#familia-pelho {
+  float: right;
+  margin: 0 0 10px 10px;
+}
