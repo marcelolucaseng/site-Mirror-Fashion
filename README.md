@@ -17,6 +17,8 @@ Depois de clonar o repositório, você pode navegar até o diretório do projeto
   ----------- 
 As tecnologias usadas neste projeto incluem:
 
+- Delphi: linguagem de programação de alto nível e um ambiente de desenvolvimento integrado (IDE) usado para desenvolver aplicativos de desktop, móveis, web e empresariais para o sistema operacional Windows. Ele usa a linguagem Object Pascal e tem como objetivo facilitar a criação de aplicativos complexos com uma interface gráfica do usuário intuitiva e recursos avançados de programação.
+
 - HTML5: A linguagem de marcação usada para criar páginas da web. 
 
 - CSS3: A linguagem de estilo usada para estilizar as páginas da web. 
