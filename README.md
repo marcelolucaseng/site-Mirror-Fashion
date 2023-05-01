@@ -53,7 +53,7 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE pa
 
 # Autor 
   ----- 
-Este projeto foi criado por seunome.
+Este projeto foi criado por Marcelo Lucas.
 
 # Agradecimentos 
   -------------- 
